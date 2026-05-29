@@ -1,6 +1,6 @@
-# Insurance AI Predictor
+# Medical Insurance Cost Prediction System
 
-Insurance AI Predictor is a machine learning based web application that predicts medical insurance charges using customer health and demographic information.
+Medical Insurance Cost Prediction System is a machine learning based web application that predicts medical insurance charges using customer health and demographic information.
 
 The application uses multiple regression algorithms and automatically selects the best-performing model for accurate premium prediction. The project also includes a modern interactive user interface built using Streamlit.
 
@@ -102,20 +102,6 @@ Additional features created:
 These engineered features improve model performance and prediction accuracy.
 
 ---
-
-# Project Structure
-
-```text
-Insurance-AI-Predictor/
-│
-├── streamlit.py
-├── insurance.csv
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── assets/
-```
-
 ---
 
 
@@ -212,32 +198,7 @@ The application accepts:
 - Region
 
 ---
-
-# UI Features
-
-- Premium modern interface
-- Dark theme dashboard
-- Interactive sliders
-- Prediction cards
-- Responsive design
-- Professional typography
-- Real-time calculations
-
 ---
-
-# Future Improvements
-
-- Deploy using Streamlit Cloud
-- Add user authentication
-- Add PDF report generation
-- Add charts and visual analytics
-- Add health recommendations
-- Save prediction history
-- Add database integration
-- Build mobile responsive version
-
----
-
 # Learning Outcomes
 
 This project demonstrates:
@@ -247,7 +208,6 @@ This project demonstrates:
 - Data preprocessing
 - Feature engineering
 - Model comparison
-- Streamlit development
 - UI/UX integration
 - Real-world ML deployment
 
